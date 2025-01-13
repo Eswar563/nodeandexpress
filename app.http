@@ -1,0 +1,8 @@
+//Common JS Module Exports
+
+//Default Exports
+GET http://localhost:4000/api/commonjsmoduleexports/defaultexports
+
+####
+//Named Exports
+GET http://localhost:4000/api/commonjsmoduleexports/namedexports
